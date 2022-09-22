@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.JsonGenerator", "Styleguide.JsonGenerator\Styleguide.JsonGenerator.csproj", "{B8E14C34-3E9C-4766-9CEE-82C5BF72B1BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.JsonGenerator.Annotations", "Styleguide.JsonGenerator.Annotations\Styleguide.JsonGenerator.Annotations.csproj", "{96DB184C-F8D3-4F10-99A7-B75B45500D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E14C34-3E9C-4766-9CEE-82C5BF72B1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E14C34-3E9C-4766-9CEE-82C5BF72B1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E14C34-3E9C-4766-9CEE-82C5BF72B1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E14C34-3E9C-4766-9CEE-82C5BF72B1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DB184C-F8D3-4F10-99A7-B75B45500D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DB184C-F8D3-4F10-99A7-B75B45500D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DB184C-F8D3-4F10-99A7-B75B45500D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DB184C-F8D3-4F10-99A7-B75B45500D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
