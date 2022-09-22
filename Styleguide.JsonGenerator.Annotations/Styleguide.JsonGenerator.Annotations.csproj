@@ -7,7 +7,7 @@
         <PackageId>Forte.Styleguide.JsonGenerator.Annotations</PackageId>
         <PackageVersion>1.0.0.0</PackageVersion>
         <Version >1.0.0.0</Version>
-        <Title>Forte.EpiResponsivePicture</Title>
+        <Title>Forte.Styleguide.JsonGenerator.Annotations</Title>
         <Authors>Forte Digital</Authors>
         <Description>Library containing metadata annotations for Forte.Styleguide.JsonGenerator</Description>
     </PropertyGroup>
